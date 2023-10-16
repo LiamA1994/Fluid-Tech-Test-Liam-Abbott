@@ -2,6 +2,8 @@
 
 This is my technical test for Fluid.
 
+The full version is under the 'Release' section on the right hand side.
+
 A 'Read me' txt file should already be included also.
 
 This will include all files and folders I did use for the technical test.
